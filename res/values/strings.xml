@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VidCoach</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="greeting1_answer_amanda">Greeting</string>
+    <string name="to_greeting">Watch Model</string>
+	<string name="shake_hand_notice">If the interviewer extends his/her hand to you, you should shake their hand for about two seconds.</string>
+	<string name="OK">OK</string>
+	<string name="shake_hand_question">How long should you shake hands for? </string>
+	<array name = "shake_hand_answers"></array>
+	<string name="shake_hand_true_answer">2 seconds</string>
+	<string name="shake_hand_false_answer1">30 minutes</string>
+	<string name="shake_hand_false_answer2">3 minutes</string>
+	<string name="correct"> Good Job! \n Correct Answer</string>
+	<string name="wrong"> Nice Try! \n The correct answer is 2 seconds</string>
+	<string name="YES">YES</string>
+	<string name="NO">NO</string>
+	<string name="ReplayVideo">Replay Video?</string>
+	<string name="Pre">Pre-Prompts</string>
+	<string name="Post">Post-Prompts</string>
+	<color name="green">#228b22</color>
+	<string name="red">#ff3030</string>
+	<string name="home">Home</string>
+</resources>

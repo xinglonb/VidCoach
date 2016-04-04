@@ -1,0 +1,1 @@
+The Vidcoach.java file is the code for homepage of Vidcoach.
